@@ -1,0 +1,2 @@
+/Users/cengjing_fdw/Library/Developer/Xcode/DerivedData/TextMove-ehkksrltqrglawdyrchgeaskmxug/Build/Products/Debug-iphonesimulator/TextMove.app
+
